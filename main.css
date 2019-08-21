@@ -1,0 +1,12 @@
+body {
+    background: white; 
+}
+#czcion {
+    font-family:'Libre Caslon Text', serif;
+
+}
+.wicher{
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+}
